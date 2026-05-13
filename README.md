@@ -7,8 +7,6 @@
 
 images and videos without training and an easy-to-use GUI.
 
-![Screen](https://github.com/C0untFloyd/roop-unleashed/assets/131583554/6ee6860d-efbe-4337-8c62-a67598863637)
-
 
 ### Features
 
@@ -28,7 +26,7 @@ images and videos without training and an easy-to-use GUI.
 ### Disclaimer
 
 
-This project is for technical and academic use only. Use This Code for Ai Deep learning and Ai Coding i.e just to learn How Ai Works?. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person whom real face is being used in the videos or photos and clearly mention that it is a Ai Generated photo or video and do not use this software to create deepfakes. Use of this tool to create non-consensual, defamatory, political, celebrity, or pornographic content is strictly prohibited and illegal under local or international laws. The developers are not responsible for misuse. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios. do not use this software for illigal purpose.
+This project is for technical and academic use only. Use This Code for Ai Deep learning and Ai Coding i.e just to learn How Ai Works?. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person whom real face is being used in the videos or photos and clearly mention that it is a Ai Generated photo or video and do not use this software to create deepfakes. Use of this tool to create non-consensual, defamatory, political, celebrity, or p.o.r.n.o.g.r.a.p.h.i.c content is strictly prohibited and illegal under local or international laws. The developers are not responsible for misuse. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios. do not use this software for illigal purpose.
 
 **This Tool is intended for Technical, Academic, Educational, Ethical, Research and Learning Purpose Use only.**
 
@@ -42,11 +40,11 @@ By using this tool, you acknowledge and agree to the following:
 You have obtained explicit, informed consent from any individuals depicted in any media you upload.
 You will not use this tool to create or distribute content that is:
 
-1. Non-consensual
-2. Sexually explicit or pornographic
-3. Defamatory, harassing, or invasive of privacy
+1. N.o.n-c.o.n.s.e.n.s.u.a.l
+2. S.e.x.u.a.l.l.y e.x.p.l.i.c.i.t or p.o.r.n.o.g.r.a.p.h.i.c
+3. D.e.f.a.m.a.t.o.r.y, h.a.r.a.s.s.i.n.g, or invasive of privacy
 4. Politically manipulative or misleading
-5. Impersonating public figures or private individuals
+5. I.m.p.e.r.s.o.n.a.t.i.n.g public figures or private individuals
 
 You are solely responsible for all content you generate or distribute using this tool.
 The developers, maintainers, and providers of this application do not assume any liability for misuse or consequences arising from content generated using this tool.
@@ -91,73 +89,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 - Commit your changes with a clear message.
 - Push to your forked repository.
 - Create a pull request.
-
-### Installation
-Google Colab by
-1. download Roop-Un5.1.1.iypnb
-
-Local Machine ( 50 series )
-0. git clone https://github.com/deepfakeapp/Roop-Un5.1.1
-1. cd Roop-Un5.1.1
-2. python -m venv venv && call venv/scripts/activate
-
-pip install uv
-
-uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
-
-uv pip install numpy
-
-uv pip install opencv-python-headless
-
-uv pip install onnx
-
-uv pip install insightface
-
-uv pip install albucore
-
-uv pip install psutil
-
-uv pip install onnxruntime
-
-uv pip install onnxruntime-silicon
-
-uv pip install onnxruntime-gpu
-
-uv pip install tqdm
-
-uv pip install ftfy
-
-uv pip install regex
-
-uv pip install pyvirtualcam
-
-pip install --force-reinstall pydantic==2.10.6
-
-pip install --upgrade gradio==5.13.0
-
-
-Local Machine (30 / 40 Series )
-
-0. git clone https://github.com/deepfakeapp/Roop-Un5.1.1
-1. cd Roop-Un5.1.1
-2. python -m venv venv && call venv/scripts/activate
-3. (FOR NVIDIA) conda install -c nvidia cudatoolkit=11.8 -y
-3. (FOR AMD) pip install onnxruntime-directml
-4. pip install -r requirementspip install 
-onnxruntime-directml.txt
-
-5. pip install --upgrade gradio --force
-6. pip install --upgrade fastapi pydantic
-7. pip install "numpy<2.0" 
-8. python run.py
-
-NOTE: This installation assumes a proper installation of your system. Including python, miniconda, git, ffmpeg, VSBuildTools2019
-
-
-
-### Usage
-
-- Windows: Activate the virtual environment and run python run.py
-
-  
-
