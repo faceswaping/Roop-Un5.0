@@ -67,11 +67,6 @@ This software must NOT be used from or within countries with strict regulations 
 
 IF YOU DO NOT FULLY AGREE WITH THESE TERMS, DO NOT USE THIS AI TOOL & APP.
   
-### Usage
-
-- Windows: run the `windows_run.bat` from the Installer.
-- Linux: `python run.py`
-
 
 ### Google-Colab
 
