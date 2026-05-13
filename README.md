@@ -1,6 +1,6 @@
 ## DOWNLOAD 
 
-# Roop-Un5.1.1 - This project has been discontinued
+# Roop-Un5.1.1 
 
 [Disclaimer](#Disclaimer) • [Terms](#Terms) • [Usage](#usage) • [Google-Colab](#Google-Colab)
 
