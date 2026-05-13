@@ -17,7 +17,7 @@ images and videos without training and an easy-to-use GUI.
 - Masking of face occluders using text prompts or automatically
 - Optional Face Upscaler/Restoration using different enhancers
 - Preview swapping from different video frames
-- Live Fake Cam using your webcam
+- Live F.a.k.e C.a.m using your webcam
 - Extras Tab for cutting videos etc.
 - Settings - storing configuration for next session
 - Theme Support
